@@ -1,6 +1,6 @@
 # Lucas Johnson 
 
-PhD student at [ESF](https://www.esf.edu/).
+PhD candidate at [ESF](https://www.esf.edu/).
 
 Working under [Dr. Colin Beier](https://www.esf.edu/faculty/beier/) on the [CAFRI](https://cafri-ny.org/) forest carbon inventory and assessment.
 
