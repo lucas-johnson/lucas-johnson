@@ -1,10 +1,10 @@
 # Lucas Johnson 
 
-PhD candidate at [ESF](https://www.esf.edu/).
+Postdoctoral Scholar at [OSU](https://oregonstate.edu/).
 
-Working under [Dr. Colin Beier](https://www.esf.edu/faculty/beier/) on the [CAFRI](https://cafri-ny.org/) forest carbon inventory and assessment.
+Working with the [USFS RMRS](https://research.fs.usda.gov/rmrs) Forest Inventory and Analyisi unit in Riverdale, UT.
 
-Developing high-resolution aboveground biomass maps for New York State.
+Quantifying carbon-equivalent warming impacts of albedo change in forests and operationalizing forest carbon reporting tools that leverage data from NASA’s GEDI mission.
 
 :evergreen_tree:
 
