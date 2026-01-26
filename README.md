@@ -8,5 +8,7 @@ Working with the [USFS RMRS](https://research.fs.usda.gov/rmrs) Forest Inventory
 
  - Operationalizing forest carbon reporting tools that leverage data from NASA’s GEDI mission 🛰️
 
+ - Supporting rapid assessment of salvagable timber resources following natural disasters 🪵
+
 
 
